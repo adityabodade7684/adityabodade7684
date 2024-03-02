@@ -38,7 +38,7 @@ src="https://img.shields.io/github/followers/adityabodade7684?logo=github&style=
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/adityabodade7684/Groci_Store" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=adityabodade7684&repo=Groci_Store_TailwindCss&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<div width="100%" align="center"><a href="https://github.com/adityabodade7684/Groci_Store" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=adityabodade7684&repo=Groci_Store&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 <a href="https://github.com/adityabodade7684/Travel-Landing-Page-" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=adityabodade7684&repo=Travel-Landing-Page-&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
  <a href="https://github.com/adityabodade7684/Profile_card" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=adityabodade7684&repo=Profile_card&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a> 
 </div><br /><br /><br /><br /><br /><br /><br />
